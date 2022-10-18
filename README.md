@@ -1,4 +1,4 @@
-# Magic_Calculatoe
+# Magic_Calculator
 Fun project from initial days of python learning 
 
 
